@@ -16,7 +16,7 @@ University of Auckland.
 
 ## Summary
 Minolith Kong GUI is a system we have developed for the administration of our Kong API interfaces. We build the system on PHP and it can be installed via composer.
-
+ 
 ## Installation
 
 ```
