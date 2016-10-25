@@ -1,8 +1,8 @@
 # Minolith Kong API GUI
-A beautiful and useful gui to the Kong API (https://getkong.org)
+A beautiful and useful gui to the [Kong API](https://getkong.org)
 
 Kong is a scalable, open source API Layer *(also known as an API Gateway, or
-API Middleware)*. Kong was originally built at [Mashape][https://www.mashape.com/] to
+API Middleware)*. Kong was originally built at [Mashape](https://www.mashape.com/) to
 secure, manage and extend over
 [15,000 Microservices](http://stackshare.io/mashape/how-mashape-manages-over-15000-apis-and-microservices)
 for its API Marketplace, which generates billions of requests per month.
