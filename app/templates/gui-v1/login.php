@@ -15,7 +15,7 @@ $meta['description']="Login to your Minolith account.";
 				</a>
 				<span style="font-weight:bold;">MINOLITH</span>
 			</div>
-			<p>KONG ADMIN GUI</p>
+			<p><a href="https://getkong.org" target="_blank">KONG API</a> ADMIN GUI</p>
 			<form method="post" action="/login">
 				<div class="form-group">
 					<label for="inputUsername">Username</label>

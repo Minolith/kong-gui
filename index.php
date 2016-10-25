@@ -2,8 +2,11 @@
 session_start();
 require(dirname(__FILE__) . '/app/init.php');
 
+// Not required for launch. Hide DB Creds
+require(dirname(__FILE__) . '/nocommit-database.php');
+
 // Setup the Database Connection
-\GUI\Mysql::setDatabaseConnection('%HOST%','%USERNAME%','%PASSWORD%','%DATABASE%');
+\GUI\Mysql::setDatabaseConnection($db_host,$db_user,$db_pass,$db_name);
 
 // Setup the location of the views directory
 \GUI\GUI::setViewsDirectory(dirname(__FILE__) . '/app/views/');
