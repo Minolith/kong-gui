@@ -1,0 +1,29 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+	background-color: #F7F4F3;
+	color: #676767;
+    margin: 0 auto;
+    font-family: "Open Sans", "helvetica", "arial", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+}
+
+
+
+.pad-top-70{
+  padding-top: 70px;
+}
+
+
+
+
+
+
+
