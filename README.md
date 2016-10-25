@@ -19,6 +19,14 @@ Minolith Kong GUI is a system we have developed for the administration of our Ko
 
 ## Installation
 
+```
+{
+    "require": {
+        "minolith/kong-gui": "1.0.*"
+}
+```
+
+
 ```shell
-$ composer install kong-gui
+$ composer install
 ```
